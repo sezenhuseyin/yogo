@@ -1,0 +1,17 @@
+{
+    "main_screen":{
+        "first_button":"Anasayfa",
+        "second_button":"Bildirimler",
+        "third_button":"Mesajlar",
+        "fourth_button":"Profil"
+    },
+    "log_reg":{"giris":"Giriş Yap","kayit":"Kayıt Ol"},
+    "log":{"login":"Giriş Yap","title":"Yogoli'ye","subtitle":"Hoşgeldiniz","mail":"E-mail","password":"Şifre","bottomtext":"Hesabınız yok mu? ","bottombutton":"Üye Olun"},
+    "reg":{"register":"Kayıt Ol","title":"Merhaba","subtitle":"Aramıza Katıl","name":"Ad Soyad","phone":"Telefon","mail":"E-mail","password":"Şifre","passwordcheck":"Şifre Tekrar","bottomtext":"Zaten hesabınız var mı?","bottombutton":"Giriş Yap"},
+    "notifications":{"notification_title":"Bildirimi Sil?","notification_subtitle1":"Bildirimi silmek istediğinize emin misiniz?","notification_subtitle2":"Bu işlem geri döndürülemez.","button_text":"Evet"},
+    "ticket_list":{"title":"Biletlerim"},
+    "messages_screen":{"search_text":"Mesajlarda Ara"},
+    "ticket_details":{"title":"Bilet Detayları","date":"Tarih","time":"Zaman","venue":"Mekan","seat":"Koltuk","more_event_details":"Etkinlik Açıklamaları","button":"Anladım"},
+    "introduction":{"skip_button":"Geç","next_button":"İleri","last_button":"Başlayalım","first_title":"Etkinliklere Katıl","second_title":"Etkinlik Oluştur","third_title":"İnsanlarla Tanış","first_subtitle":"Etkinliklere katıl, puanlar kazan, puanlarınla hediyeler al","second_subtitle":"Etkinlik oluştur ve insanlara ulaş","third_subtitle":"Etkinliklerde insanlarla tanış ve mesajlaş"}
+    ,"message_page":{"language":"tr_TR","text_field_hint":"Mesajınızı giriniz"}
+}

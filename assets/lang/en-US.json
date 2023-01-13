@@ -1,0 +1,21 @@
+{
+    "main_screen":{
+        "first_button":"Home Page",
+        "second_button":"Notifications",
+        "third_button":"Messages",
+        "fourth_button":"Profile"
+    },
+    "log_reg":{"giris":"Log In","kayit":"Register"},  
+    "log":{"login":"Log In","title":"Welcome to","subtitle":"Yogoli!","mail":"E-mail","password":"Password","bottomtext":"Don't you have an account? ","bottombutton":"Register"},
+    "reg":{"register":"Register","title":"Hello","subtitle":"Join Yogoli","name":"Name Surname","phone":"Phone Number","mail":"E-mail","password":"Password","passwordcheck":"Password Check","bottomtext":"Already have an account?","bottombutton":"Log In"},
+    "notifications":{"notification_title":"Delete Notification?","notification_subtitle1":"Are you sure you want to delete that notification?","notification_subtitle2":"This action is irreversible.","button_text":"Yes"},
+    "ticket_list":{"title":"My Tickets"},
+    "messages_screen":{"search_text":"Search on Messages"},
+
+    "ticket_details":{"title":"Ticket Details","date":"Date","time":"Time","venue":"Venue","seat":"Seat","more_event_details":"More Event Details","button":"Got It"},
+    "introduction":{"skip_button":"Skip","next_button":"Next","last_button":"Let's Start","first_title":"Join Events","second_title":"Create Event","third_title":"Meet People","first_subtitle":"Participate in events, earn points, buy gifts with your points","second_subtitle":"Create events and reach people","third_subtitle":"Meet and message people at events"}
+    ,"message_page":{"language":"en_US","text_field_hint":"Type a message"}
+
+
+
+}
